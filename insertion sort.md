@@ -1,4 +1,4 @@
-# PROJE 1
+# PROJE 1 - insertion sort
 ## 1.SORU
 [ 22,27,16,2,18,6 ] -> insertion sort (en basit siralama)
 1. [ 2,27,16,22,18,6 ]  n sayida islem yapti
